@@ -17,12 +17,3 @@ Este projeto consiste em uma calculadora simples com interface gráfica desenvol
 ## Tecnologias utilizadas
 - Python
 - Tkinter (biblioteca padrão do Python para interfaces gráficas)
-
-## Como executar
-
-1. Certifique-se de ter o Python instalado na sua máquina.
-2. Clone ou baixe este repositório.
-3. Execute o arquivo principal:
-
-```bash
-python main.py
